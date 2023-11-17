@@ -38,7 +38,7 @@ gantt
 
 	section Development
 	Operators               : d1, 2024-01-08, 35d
-	Test                    : d2, 2024-01-28, 15d
+	Test                    : d2, 2024-01-08, 35d
 	Reproducibility         : d3, 2024-01-28, 15d
 	Delivery                : crit, milestone, d4, after d1 d2, 0d
 
