@@ -44,12 +44,10 @@ gantt
 
 	section Presentations
 	Reporting               : r1, 2024-02-04, 26d
-	Report draft            : milestone, r0, 2024-02-19, 0d
-	Video draft             : milestone, r1, 2024-02-19, 0d
-	Training session        : milestone, t0, 2024-02-19, 0d
-	Report delivery         : crit, milestone, m3, 2024-02-29, 0d
-	Video delivery          : crit, milestone, m1, 2024-02-29, 0d
-	Presentation            : crit, milestone, m2, 2024-02-29, 0d
+	Report draft            : milestone, r0, 2024-02-12, 0d
+	Video draft             : milestone, r1, 2024-02-12, 0d
+	Report delivery         : crit, milestone, m3, 2024-02-25, 0d
+	Video delivery          : crit, milestone, m1, 2024-02-25, 0d
 ```
 
 ### Kanban
